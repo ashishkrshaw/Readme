@@ -39,14 +39,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,aws,gcp,docker,kubernetes,linux,js,mysql,postgres,mongo,jenkins,git,github&perline=7" alt="Modern Tech Stack Logos" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashishkrshaw&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Ashish's GitHub Trophies" />
-  </a>
-</div>
-
 ## 📊 Live GitHub Insights & Push Tracking
 
 <div align="center">
@@ -70,14 +62,14 @@
   </a>
 </div>
 
-## 🐍 Contribution Snake Animation
-*(This snake will eat my contributions graph! It will appear once the GitHub Action runs successfully.)*
+## 📈 Live Contribution Activity Graph
+*(A dynamic line chart that tracks your GitHub contributions in real-time!)*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishkrshaw/ashishkrshaw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishkrshaw/ashishkrshaw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashishkrshaw/ashishkrshaw/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <a href="https://github.com/ashishkrshaw">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkrshaw&bg_color=1a1b27&color=38BDFC&line=38BDFC&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
+</div>
 
 ---
 *Built with ❤️ by Ashish*
