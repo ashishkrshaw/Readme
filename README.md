@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDFC&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Ashish+👋;Cloud+Architecture;Cloud+Security;PQCryptography;Bitcoin+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDFC&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Ashish;Cloud+Architecture;Cloud+Security;PQCryptography;Bitcoin+Explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,19 +8,19 @@
 
 <br/>
 
-<!-- Modern Official App Logos -->
+<!-- Modern Official App Logos (Using highly reliable shields.io for maximum compatibility) -->
 <div align="center">
   <a href="https://ashishshaw.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/chrome.svg" alt="Chrome/Portfolio" height="45" width="45" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:saw092821@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="45" width="45" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/asksaw" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ashishkshaw" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="45" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-## 📊 GitHub Insights & Push Tracking
+## 📊 Live GitHub Insights & Push Tracking
 
 <div align="center">
   <!-- GitHub Streak Tracking -->
@@ -71,7 +71,7 @@
 </div>
 
 ## 🐍 Contribution Snake Animation
-*(This snake will eat my contributions graph!)*
+*(This snake will eat my contributions graph! It will appear once the GitHub Action runs successfully.)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishkrshaw/ashishkrshaw/output/github-contribution-grid-snake-dark.svg">
